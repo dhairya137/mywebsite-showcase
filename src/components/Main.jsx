@@ -6,7 +6,7 @@ const Main = () => {
   return (
     <>
       <div className="my-5">
-        <h1 className="text-center">My Website Showcase</h1>
+        <h1 className="text-center">My Websites Showcase</h1>
       </div>
 
       <div className="container-fluid mb-5">
