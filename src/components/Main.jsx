@@ -16,6 +16,7 @@ const Main = () => {
               {Data.map((val, ind) => {
                 return (
                   <Card
+                    number={ind + 1}
                     imgsrc={val.imgsrc}
                     title={val.title}
                     siteLink={val.siteLink}

@@ -7,7 +7,9 @@ const Card = (props) => {
         <div className="card">
           <img src={props.imgsrc} className="card-img-top" />
           <div className="card-body">
-            <h5 className="card-title">{props.title}</h5>
+            <h5 className="card-title">
+              {props.number}. {props.title}
+            </h5>
             <a
               href={props.siteLink}
               target="_blank"
