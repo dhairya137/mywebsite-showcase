@@ -12,14 +12,14 @@ const Card = (props) => {
             </h5>
             <a
               href={props.siteLink}
-              target="_blank"
+              // target="_blank"
               className="btn btn-danger mx-3"
             >
               Visit Site
             </a>
             <a
               href={props.sourceCode}
-              target="_blank"
+              // target="_blank"
               className="btn btn-primary"
             >
               Source Code
