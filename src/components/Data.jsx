@@ -18,14 +18,14 @@ const Data = [
     title: "Movie Booking Site",
     siteLink: "https://nervous-mahavira-e2582c.netlify.app/",
     sourceCode:
-      "https://github.com/dhairya137/JS-Project/tree/master/Project%20%203%20-%20Exchange%20Rate%20Calculator",
+      "https://github.com/dhairya137/JS-Project/tree/master/Project%202%20-%20Movie%20booking%20Website",
   },
   {
     imgsrc: pp3,
     title: "Exchange Rate Calculator",
     siteLink: "https://exchange-rate-calc-2020.netlify.app/",
     sourceCode:
-      "https://github.com/dhairya137/JS-Project/tree/master/Project%202%20-%20Movie%20booking%20Website",
+      "https://github.com/dhairya137/JS-Project/tree/master/Project%20%203%20-%20Exchange%20Rate%20Calculator",
   },
   {
     imgsrc: pp4,
@@ -37,13 +37,15 @@ const Data = [
     imgsrc: pp5,
     title: "New Year Countdown",
     siteLink: "https://new-year-countdown2020.netlify.app/",
-    sourceCode: "/",
+    sourceCode:
+      "https://github.com/dhairya137/JS-Project/tree/master/Project%205%20-%20new-year-countdown",
   },
   {
     imgsrc: pp6,
     title: "Lyrics Search",
     siteLink: "https://lyrics-search-app-2020.netlify.app/",
-    sourceCode: "/",
+    sourceCode:
+      "https://github.com/dhairya137/JS-Project/tree/master/Project%204%20-%20lyrics-search",
   },
 ];
 
